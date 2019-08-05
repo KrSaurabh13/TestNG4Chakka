@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44" started-at="2019-08-05T05:14:33Z" finished-at="2019-08-05T05:14:33Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Demo6_Groups.testcase1()[pri:0, instance:DemoTestNG.Demo6_Groups@4cc0edeb]" name="testcase1" class="DemoTestNG.Demo6_Groups"/>
+        <method signature="Demo6_Groups.testcase2()[pri:0, instance:DemoTestNG.Demo6_Groups@4cc0edeb]" name="testcase2" class="DemoTestNG.Demo6_Groups"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="smoke Test" duration-ms="44" started-at="2019-08-05T05:14:33Z" finished-at="2019-08-05T05:14:33Z">
+      <class name="DemoTestNG.Demo6_Groups">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:DemoTestNG.Demo6_Groups@4cc0edeb]" name="testcase1" duration-ms="21" started-at="2019-08-05T05:14:33Z" finished-at="2019-08-05T05:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:DemoTestNG.Demo6_Groups@4cc0edeb]" name="testcase2" duration-ms="0" started-at="2019-08-05T05:14:33Z" finished-at="2019-08-05T05:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- DemoTestNG.Demo6_Groups -->
+    </test> <!-- smoke Test -->
+  </suite> <!-- Suite -->
+</testng-results>
